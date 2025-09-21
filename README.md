@@ -10,7 +10,7 @@ Beginner:
 04. Master Machine Learning Algorithms
 05. Machine Learning Algorithms From Scratch
 
-Internediate:
+Intermediate:
 
 06. Machine Learning Mastery With Weka
 07. Machine Learning Mastery With Python
@@ -28,6 +28,6 @@ Advanced:
 16. Deep Learning for Time Series Forecasting
 17. Generative Adversarial Networks with Python
 18. Better Deep Learning
-19.XGBoost With Python
+19. XGBoost With Python
 
-Please share if you have the missing ones. Thanks
+Hope you enjoy!
